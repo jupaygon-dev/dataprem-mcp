@@ -41,9 +41,9 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://dataprem.com"
-Repository = "https://github.com/tekniadev/dataprem-mcp"
-Issues = "https://github.com/tekniadev/dataprem-mcp/issues"
-Changelog = "https://github.com/tekniadev/dataprem-mcp/blob/master/CHANGELOG.md"
+Repository = "https://github.com/jupaygon-dev/dataprem-mcp"
+Issues = "https://github.com/jupaygon-dev/dataprem-mcp/issues"
+Changelog = "https://github.com/jupaygon-dev/dataprem-mcp/blob/master/CHANGELOG.md"
 
 [project.optional-dependencies]
 dev = [
